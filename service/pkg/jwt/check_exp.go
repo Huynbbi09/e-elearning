@@ -1,3 +1,0 @@
-package jwtapp
-
-func CheckExp() {}
